@@ -1,0 +1,85 @@
+int a (int c, int b){
+      
+	int d;
+        int idade; 
+	int c[10];
+	int *d;
+	int a[];
+	a = a[1] + 10.7;
+	a = a[2] + 10.8;
+	c = d+ b;
+	c = d -b;
+	c = d/ b;
+	c = d% b;
+	c = d* b;
+	for(i = 1; i%5 == 0; i++){
+
+	}
+
+	if((a==b)){
+		c = c++;
+		c = ++c;
+		c = c--;
+		c = --c;
+	}else if (a!=b || !a){
+		if(a>=1 || 2>3){
+			for (i = 0; i < a; ++i)
+			{
+				return (1 + 2);
+				while(a > 6){
+					continue;
+				}
+
+			}
+
+
+		}
+	}
+
+
+}
+
+char teste(int *a, int *c){
+	char ab;
+	ab = "AUX";
+	a++;
+	c--;
+	return ab;
+
+
+}
+
+float teste(char a, int b, float c){
+	int bb[];
+	float cc[];
+	char aa[];
+	int i;
+	int w;
+	for (i = 0; i < 10; ++i)
+	{
+		aa[i] = a;
+		bb[i] = b;
+		cc[i] = c;
+	}
+	w= 0;
+	if (aa[3] == "AB"){
+		break;
+		i = 9;
+		w = 5;
+	}
+
+	while(w>=10){
+		aa[w] = a;
+		bb[w] = b;
+		cc[w] = *c[8];
+
+		if(cc[w] != "AUX"){
+			continue;
+		}
+	}
+
+	return (bb[i] + cc[w]);
+
+
+
+}
